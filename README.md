@@ -1,15 +1,10 @@
-### Hi there 👋
 <img align="right" height="590em" src="https://gist.githubusercontent.com/WillyRenzo/a8329bdf335199f6ebf81056e4e0bdbd/raw/2fc1390b5450e2901515e09b0032187ab16815ce/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Willy Renzo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 I'm a mid-level FullStack Developer.
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 🔭 I’m currently working with fullstack freelancer
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
@@ -63,19 +58,3 @@
 </p>
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
