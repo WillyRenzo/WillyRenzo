@@ -4,9 +4,9 @@
 
 - 🔥 I'm a mid-level FullStack Developer.
 
-- 🔭 I’m currently working with fullstack freelancer
+- 🔭 I’m currently working in Intuix as a FullStack Developer using AWS.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.JS, TypeScript**
+- 💬 Ask me about **JavaScript, SQL, Node.JS, Nest.JS, Prisma, TypeScript**
 
 <br><br>
 
