@@ -1,12 +1,12 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/WillyRenzo/a8329bdf335199f6ebf81056e4e0bdbd/raw/2fc1390b5450e2901515e09b0032187ab16815ce/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Willy Renzo</h1>
+<h1 align="left">Hi, I'm Willy Renzo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WillyRenzo&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 I'm a mid-level FullStack Developer.
 
-- 🔭 I’m currently working in Intuix as a FullStack Developer using AWS.
+- 🔭 I’m currently working as a FullStack Developer.
 
-- 💬 Ask me about **JavaScript, SQL, Node.JS, Nest.JS, Prisma, TypeScript**
+- 💬 Ask me about **JavaScript, SQL, Node.JS, Nest.JS, Prisma, TypeScript, Python, AWS**
 
 <br><br>
 
