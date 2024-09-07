@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Willy Renzo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WillyRenzo&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm a mid-level FullStack Developer.
+- 🔥 I'm a FullStack Developer.
 
 - 🔭 I’m currently working as a FullStack Developer.
 
